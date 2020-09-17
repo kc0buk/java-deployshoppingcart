@@ -521,7 +521,8 @@ STATUS OK
 
 ## Instructions
 
-* [ ] Please fork and clone this repository.
+* [x] Please fork and clone this repository.
+* [x] Submit pull request. ()
 * [ ] This repository does not have a starter project, so you must start with the Shopping Cart Application from your submission for the module project [https://github.com/LambdaSchool/java-shoppingcart.git](https://github.com/LambdaSchool/java-shoppingcart.git). Regularly commit and push your code as appropriate.
 * [ ] For the seed files provided in the original project, that all of the users' passwords are "LambdaLlama".
 
