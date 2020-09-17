@@ -522,16 +522,19 @@ STATUS OK
 ## Instructions
 
 * [x] Please fork and clone this repository.
-* [x] Submit pull request. ()
-* [ ] This repository does not have a starter project, so you must start with the Shopping Cart Application from your submission for the module project [https://github.com/LambdaSchool/java-shoppingcart.git](https://github.com/LambdaSchool/java-shoppingcart.git). Regularly commit and push your code as appropriate.
-* [ ] For the seed files provided in the original project, that all of the users' passwords are "LambdaLlama".
+* [x] Submit pull request. (https://github.com/kc0buk/java-deployshoppingcart/pull/1)
+* [x] This repository does not have a starter project, so you must start with the Shopping Cart Application from your
+ submission for the module project [https://github.com/LambdaSchool/java-shoppingcart.git](https://github.com/LambdaSchool/java-shoppingcart.git). Regularly commit and push your code as appropriate.
+* [x] For the seed files provided in the original project, that all of the users' passwords are "LambdaLlama".
 
 ### MVP
 
-* [ ] Required Unit Testing.
-  * [ ] Write at least 2 unit tests for the user service.
-  * [ ] Write at least 2 unit tests for the user controller.
-* [ ] Deploy the system to Heroku using PostgreSQL.
+* [x] Required Unit Testing.
+  * [x] Write at least 2 unit tests for the user service.
+  * [x] Write at least 2 unit tests for the user controller.
+* [x] Deploy the system to Heroku using PostgreSQL.
+
+******* IGNORE THE FOLLOWING OBJECTIVES *********
 * [ ] Create a file under main/resources called info.txt
   * [ ] In this file put the CURL commands needed for the following endpoints.
   * [ ] Include after each CURL command, its results.
